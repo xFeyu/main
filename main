@@ -1670,8 +1670,6 @@ local Button = MainTab:CreateButton({
     end,
   })
 
-  local MainSection = MainTab:CreateSection("GUI's")
-
   local MainTab = Window:CreateTab("Horror's RNG [INFLUCK]", nil) -- Title, Image
   local MainSection = MainTab:CreateSection("feyu")
 

@@ -276,8 +276,6 @@ local Window = Rayfield:CreateWindow({
     end,
  })
 
- local MainSection = MainTab:CreateSection("GUIs")
-
  local Button = MainTab:CreateButton({
     Name = "Detazy[DOWN]",
     Callback = function()
